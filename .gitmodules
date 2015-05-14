@@ -91,9 +91,9 @@
 [submodule "extrememon/extrememon-Display"]
 	path = extrememon/extrememon-Display
 	url = https://github.com/m4rienf/ExtreMon-Display
-[submodule "reimann/repo"]
-	path = reimann/repo
-	url = https://github.com/aphyr/reimann
+[submodule "riemann/repo"]
+	path = riemann/repo
+	url = https://github.com/aphyr/riemann
 [submodule "metis/repo"]
 	path = metis/repo
 	url = https://github.com/krobertson/metis
@@ -103,6 +103,141 @@
 [submodule "isotope11_traffic_lights/repo"]
 	path = isotope11_traffic_lights/repo
 	url = https://github.com/johndavid400/Isotope11_traffic_lights.git
+[submodule "datadog/dd-agent"]
+	path = datadog/dd-agent
+	url = git://github.com/DataDog/dd-agent.git
+[submodule "datadog/dogapi"]
+	path = datadog/dogapi
+	url = git://github.com/DataDog/dogapi.git
 [submodule "servo/repo"]
 	path = servo/repo
 	url = https://github.com/Netflix/servo.git
+[submodule "cepmon/repo"]
+	path = cepmon/repo
+	url = https://github.com/fetep/cepmon.git
+[submodule "nervous/repo"]
+	path = nervous/repo
+	url = https://github.com/gflarity/nervous.git
+[submodule "response/repo"]
+	path = response/repo
+	url = https://github.com/gflarity/response
+[submodule "cube/repo"]
+	path = cube/repo
+	url = https://github.com/square/cube
+[submodule "datadog/dogapi-rb"]
+	path = datadog/dogapi-rb
+	url = https://github.com/DataDog/dogapi-rb.git
+[submodule "datadog/dogstatsd-python"]
+	path = datadog/dogstatsd-python
+	url = https://github.com/DataDog/dogstatsd-python.git
+[submodule "datadog/puppet-datadog-agent"]
+	path = datadog/puppet-datadog-agent
+	url = https://github.com/DataDog/puppet-datadog-agent.git
+[submodule "datadog/chef-handler-datadog"]
+	path = datadog/chef-handler-datadog
+	url = https://github.com/DataDog/chef-handler-datadog.git
+[submodule "datadog/dogstatsd-ruby"]
+	path = datadog/dogstatsd-ruby
+	url = https://github.com/DataDog/dogstatd-ruby.git
+[submodule "vacuumetrix/repo"]
+	path = vacuumetrix/repo
+	url = https://github.com/99designs/vacuumetrix
+[submodule "vowpal_wabbit/repo"]
+	path = vowpal_wabbit/repo
+	url = https://github.com/JohnLangford/vowpal_wabbit
+[submodule "storm/repo"]
+	path = storm/repo
+	url = https://github.com/nathanmarz/storm
+[submodule "jimi-robot/repo"]
+	path = jimi-robot/repo
+	url = https://github.com/arozhkov/jimi-robot
+[submodule "adagios/repo"]
+	path = adagios/repo
+	url = https://github.com/opinkerfi/adagios
+[submodule "pynag/repo"]
+	path = pynag/repo
+	url = https://github.com/pynag/pynag
+[submodule "okconfig/repo"]
+	path = okconfig/repo
+	url = https://github.com/opinkerfi/okconfig
+[submodule "graph-explorer/repo"]
+	path = graph-explorer/repo
+	url = https://github.com/vimeo/graph-explorer.git
+[submodule "seyren/repo"]
+	path = seyren/repo
+	url = https://github.com/scobal/seyren.git
+[submodule "influxdb/repo"]
+	path = influxdb/repo
+	url = https://github.com/influxdb/influxdb
+[submodule "librato/python-librato"]
+	path = librato/python-librato
+	url = https://github.com/librato/python-librato
+[submodule "librato/librato-services"]
+	path = librato/librato-services
+	url = https://github.com/librato/librato-services
+[submodule "librato/librato-annotate"]
+	path = librato/librato-annotate
+	url = https://github.com/librato/librato-annotate
+[submodule "librato/statsd-cookbook"]
+	path = librato/statsd-cookbook
+	url = https://github.com/librato/statsd-cookbook
+[submodule "librato/papertrail-cookbook"]
+	path = librato/papertrail-cookbook
+	url = https://github.com/librato/papertrail-cookbook
+[submodule "librato/dropwizard-librato"]
+	path = librato/dropwizard-librato
+	url = https://github.com/librato/dropwizard-librato
+[submodule "librato/metrics-librato"]
+	path = librato/metrics-librato
+	url = https://github.com/librato/metrics-librato
+[submodule "librato/statsd-librato-backend"]
+	path = librato/statsd-librato-backend
+	url = https://github.com/librato/statsd-librato-backend
+[submodule "librato/librato-metrics"]
+	path = librato/librato-metrics
+	url = https://github.com/librato/librato-metrics
+[submodule "librato/librato-java"]
+	path = librato/librato-java
+	url = https://github.com/librato/librato-java
+[submodule "librato/librato-rails"]
+	path = librato/librato-rails
+	url = https://github.com/librato/librato-rails
+[submodule "librato/librato-rack"]
+	path = librato/librato-rack
+	url = https://github.com/librato/librato-rack
+[submodule "librato/librato-storm-kafka"]
+	path = librato/librato-storm-kafka
+	url = https://github.com/librato/librato-storm-kafka
+[submodule "librato/librato-logreporter"]
+	path = librato/librato-logreporter
+	url = https://github.com/librato/librato-logreporter
+[submodule "Monitorix/repo"]
+	path = Monitorix/repo
+	url = https://github.com/mikaku/Monitorix
+[submodule "cavalieri/repo"]
+	path = cavalieri/repo
+	url = https://github.com/juruen/cavalieri
+[submodule "opserver/repo"]
+	path = opserver/repo
+	url = https://github.com/opserver/Opserver
+[submodule "librenms/repo"]
+	path = librenms/repo
+	url = https://github.com/librenms/librenms.git
+[submodule "lnav/repo"]
+	path = lnav/repo
+	url = https://github.com/tstack/lnav
+[submodule "sysdig/repo"]
+	path = sysdig/repo
+	url = https://github.com/draios/sysdig
+[submodule "skyline/repo"]
+	path = skyline/repo
+	url = https://github.com/etsy/skyline
+[submodule "oculus/repo"]
+	path = oculus/repo
+	url = https://github.com/etsy/oculus
+[submodule "consul/repo"]
+	path = consul/repo
+	url = https://github.com/hashicorp/consul
+[submodule "glances/repo"]
+	path = glances/repo
+	url = https://github.com/nicolargo/glances
